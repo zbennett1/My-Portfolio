@@ -3,14 +3,14 @@
 ### About Me
 Hello! I am an experienced Lifegaurd with over 3 years of proven expertise in preventing emergencies and helping with medical emergencies when needed. 
 
-With skills in [Skill 1], [Skill 2], [Skill 3], and [Skill 4], I am able to [Action Verb] [Specific Task], and achieve [Accomplishment]. I am adept at using [Technology/Tool 1], [Technology/Tool 2], and [Technology/Tool 3]. 
+With skills in lifegaurding, CPR, Oxygen, and athletic ability, I am able to succesfully lifegaurd, and prevent medical emergencies and help save lives. I am adept at using an AED, Computers, and Microsoft. 
 
-My [Adjective] skill set, commitment to [Value/Quality], and passion for [Interest] me as a valuable asset.  In my spare time, I like to [Hobby 1] and [Hobby 2]. 
+My wide skill set, commitment to hardwork, and passion for helping others are valuable assets.  In my spare time, I like to hangout with friends and play lacrosse. 
 
-You can find me on [LinkedIn Hyperlink], [Social Media 1] or [Social Media 2].
+You can find me on instagram @zachbennett_1
 
 ### Education
-**BSc in [Your Major]**  
+**BS in Biohealth**  
 Loyola University Maryland
 
 ### Projects
