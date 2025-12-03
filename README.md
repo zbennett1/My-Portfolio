@@ -1,3 +1,4 @@
+![Banner Image.](https://github.com/zbennett1/My-Portfolio/blob/main/cs105%20cropped%20banner%20image.png)
 # Zach Bennett
 
 ### About Me
