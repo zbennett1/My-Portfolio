@@ -16,16 +16,16 @@ Loyola University Maryland
 
 ### Projects
 
-#### Project 1 Title
-- ![Image](link-to-image)
+#### Excel Grade Calculator
+- ![Excel Grade Calculator]()
 - [Read the Report](link-to-report)
 
 ***
-#### Project 2 Title
+#### My Personal Coputer Information
 - ![Image](link-to-image)
 - Write-up here
 
 ***
-#### Project 3 Title
+#### Important goals for the future query
 - ![Image](link-to-image)
 - Write-up here
