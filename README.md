@@ -22,7 +22,7 @@ Loyola University Maryland
 
 ***
 #### My Personal Coputer Information
-- ![Image](link-to-image)
+- ![Computer Information](https://github.com/zbennett1/My-Portfolio/blob/main/CS105%20my%20computer%20info%20picture.png?raw=true)
 - Write-up here
 
 ***
