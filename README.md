@@ -17,7 +17,7 @@ Loyola University Maryland
 ### Projects
 
 #### Excel Grade Calculator
-- ![Excel Grade Calculator](https://github.com/zbennett1/My-Portfolio/blob/main/CS105%20excel%20project%20picture.png?raw=true)
+- ![Grade Calculator](https://github.com/zbennett1/My-Portfolio/blob/main/CS105%20excel%20project%20picture.png?raw=true)
 - [Read the Report](link-to-report)
 
 ***
@@ -27,5 +27,5 @@ Loyola University Maryland
 
 ***
 #### Important goals for the future query
-- ![Image](link-to-image)
+- ![Future Goals](https://github.com/zbennett1/My-Portfolio/blob/main/CS105%20query%20of%20the%20future%20picture.png?raw=true)
 - Write-up here
